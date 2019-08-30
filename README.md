@@ -1,2 +1,2 @@
 # Final_project_end
-<img src="./resource/main/statc/dog.PNG" width=100%>
+<img src="./resource/main/static/dog.PNG" width=100%>
